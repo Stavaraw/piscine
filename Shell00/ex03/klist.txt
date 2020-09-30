@@ -1,0 +1,5 @@
+Credentials cache: API:FBE67B0C-04E7-48B2-8542-F90793D5F2DB
+        Principal: vcini@42LYON.FR
+
+  Issued                Expires               Principal
+Sep  9 16:08:29 2020  Sep 10 16:08:29 2020  krbtgt/42LYON.FR@42LYON.FR
